@@ -1,0 +1,28 @@
+{
+  "name": "contactsnodejs",
+  "version": "1.0.0",
+  "description": "homeWork1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKozzlov/contactsNodeJS.git"
+  },
+  "author": "AlexKozzlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexKozzlov/contactsNodeJS/issues"
+  },
+  "homepage": "https://github.com/AlexKozzlov/contactsNodeJS#readme",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
